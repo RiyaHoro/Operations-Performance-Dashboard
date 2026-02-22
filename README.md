@@ -47,6 +47,7 @@ These were merged into a single operational table for analysis.
 - Slicers  
 - Conditional Formatting  
 - Excel formulas (VLOOKUP, IF, COUNTIF, AVERAGE)
+![Uploading image.png…]()
 
 ---
 
