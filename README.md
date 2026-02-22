@@ -50,7 +50,6 @@ These were merged into a single operational table for analysis.
 - Excel formulas (VLOOKUP, IF, COUNTIF, AVERAGE)
 
 ---
-![Dashboard Preview](Screenshot(368).png)
+![Dashboard Preview](Dashboard_preview.png)
 
-![Dashboard Preview](Screenshot(368).png)
 
